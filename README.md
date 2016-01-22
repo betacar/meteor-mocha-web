@@ -62,5 +62,5 @@ the client integration tests.
 ## Using `mike:mocha-package`
 See the README for this fork [https://github.com/mad-eye/meteor-mocha-web/tree/packageTest]([https://github.com/mad-eye/meteor-mocha-web/tree/packageTest])
 
-## Deubgging serverside tests
+## Debugging serverside tests
 `VELOCITY_DEBUG_MIRROR=mocha meteor`
